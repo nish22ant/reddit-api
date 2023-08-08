@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./step1.css">
+    <title>Document</title>
+    <style>
+        th,
+        td {
+            width: 5rem;
+            column-width: 1500px;
+            overflow-wrap: break-word;
+        }
+
+        #query {
+            margin-left: 2.75rem
+        }
+
+        #forLimit {
+            margin-right: 3rem;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Search Reddit</h1>
+    <input id="query" type="text"> <br>
+    <div>
+        Sort By:
+
+        <input type="radio" id="relevance" name="sortBy" value="relevance" checked>
+        <label for="relevance">Relevance</label>
+        <input type="radio" id="latest" name="sortBy" value="top">
+        <label for="relevance">Latest</label> <br>
+    </div>
+    <label id="forLimit" for="limit">Limit: <input id='limit' type="text"></label>
+    <button id="btn">Search</button>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="./step4.js"></script>
+</body>
+
+</html>

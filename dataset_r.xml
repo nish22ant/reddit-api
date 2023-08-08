@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <category term="it" label="r/it" />
+    <updated>2022-08-03T16:22:59+00:00</updated>
+    <icon>https://www.redditstatic.com/icon.png/</icon>
+    <id>/r/it/.rss</id>
+    <link rel="self" href="https://www.reddit.com/r/it/.rss" type="application/atom+xml" />
+    <link rel="alternate" href="https://www.reddit.com/r/it/" type="text/html" />
+    <subtitle>IT: information technology. Discussion, links, and questions about software, hardware, and the IT industry.</subtitle>
+    <title>information technology</title>
+    <entry>
+        <author>
+            <name>/u/stackjr</name>
+            <uri>https://www.reddit.com/user/stackjr</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We see a lot of questions within the &lt;a href=&quot;https://www.reddit.com/r/IT&quot;&gt;r/IT&lt;/a&gt; community asking how to get into IT, what path to follow, what is needed, etc. For everyone it is going to be different but there is a similar path that we can all take to make it a bit easier.&lt;/p&gt; &lt;p&gt;If you have limited/no experience in IT (or don&amp;#39;t have a degree) it is best to start with certifications. CompTIA is, in my opinion, the best place to start. Following in this order: A+, Network+, and Security+. These are a great place to start and will lay a foundation for your IT career.&lt;/p&gt; &lt;p&gt;There are resources to help you earn these certificates but they don&amp;#39;t always come cheap. You can take CompTIA&amp;#39;s online learning (live online classroom environment) but at $2,000 USD, this will be cost prohibitive for a lot of people. CBT Nuggets is a great website but it is not free either (I do not have the exact price). You can also simply buy the books off of Amazon. Fair warning with that: they make for VERY dry reading and the certification exams are not easy (for me they weren&amp;#39;t, at least).&lt;/p&gt; &lt;p&gt;After those certifications, you will then have the opportunity to branch out. At that time, you should have the knowledge of where you would like to go and what IT career path you would like to pursue.&lt;/p&gt; &lt;p&gt;I like to stress that a college/university degree is NOT necessary to get into the IT field but will definitely help. What degree you choose is strictly up to you but I know quite a few people with a computer science degree.&lt;/p&gt; &lt;p&gt;Most of us (degree or not) will start in a help desk environment. Do not feel bad about this; it&amp;#39;s a great place to learn and the job is vital to the IT department. A lot of times it is possible to get into a help desk role with no experience but these roles will limit what you are allowed to work on (call escalation is generally what you will do).&lt;/p&gt; &lt;p&gt;Please do not hesitate to ask questions, that is what we are all here for.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;I would encourage my fellow IT workers to add to this post, fill in the blanks that I most definitely missed.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/stackjr&quot;&gt; /u/stackjr &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/tx4ifd/some_steps_for_getting_into_it/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/tx4ifd/some_steps_for_getting_into_it/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_tx4ifd</id>
+        <link href="https://www.reddit.com/r/it/comments/tx4ifd/some_steps_for_getting_into_it/" />
+        <updated>2022-04-05T20:38:53+00:00</updated>
+        <published>2022-04-05T20:38:53+00:00</published>
+        <title>Some steps for getting into IT</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Gr33nLight</name>
+            <uri>https://www.reddit.com/user/Gr33nLight</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello,&lt;/p&gt; &lt;p&gt;We are trying to activate a certain number of iMacs with ABM. At the moment we don&amp;#39;t have an MDM server so we were hoping it was possible to still activate these machines without it, and configure an MDM service later on.&lt;/p&gt; &lt;p&gt;Right now we are stuck on the error &amp;quot;Enrolling with management server failed&amp;quot;. This error appears after linking the macs with the apple configurator iOS app.&lt;/p&gt; &lt;p&gt;We tried with the solution described here but apple configurator stays stuck on &amp;quot;Restarting&amp;quot; : &lt;a href=&quot;https://www.hexnode.com/mobile-device-management/help/common-errors-while-enrolling-mac-in-apple-business-manager/#7-enrollment-with-management-server-failed-unable-to-connect-to-the-mdm-server-for-your-organization&quot;&gt;https://www.hexnode.com/mobile-device-management/help/common-errors-while-enrolling-mac-in-apple-business-manager/#7-enrollment-with-management-server-failed-unable-to-connect-to-the-mdm-server-for-your-organization&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Gr33nLight&quot;&gt; /u/Gr33nLight &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wf9bb3/truble_setting_up_abm_on_macos_without_mdm_server/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wf9bb3/truble_setting_up_abm_on_macos_without_mdm_server/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wf9bb3</id>
+        <link href="https://www.reddit.com/r/it/comments/wf9bb3/truble_setting_up_abm_on_macos_without_mdm_server/" />
+        <updated>2022-08-03T15:19:44+00:00</updated>
+        <published>2022-08-03T15:19:44+00:00</published>
+        <title>Truble setting up ABM on macOS without MDM server</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/TheMostOptimalPerson</name>
+            <uri>https://www.reddit.com/user/TheMostOptimalPerson</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My windows 10 laptop connects to all WiFi networks except my home WiFi. I get the message “can’t connect to this network”&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/TheMostOptimalPerson&quot;&gt; /u/TheMostOptimalPerson &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wf20kx/laptop_does_not_connect_to_wifi/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wf20kx/laptop_does_not_connect_to_wifi/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wf20kx</id>
+        <link href="https://www.reddit.com/r/it/comments/wf20kx/laptop_does_not_connect_to_wifi/" />
+        <updated>2022-08-03T09:29:52+00:00</updated>
+        <published>2022-08-03T09:29:52+00:00</published>
+        <title>Laptop does not connect to WiFi.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Away_Fox_7807</name>
+            <uri>https://www.reddit.com/user/Away_Fox_7807</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Away_Fox_7807&quot;&gt; /u/Away_Fox_7807 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.ingenuitycloudservices.com&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wf4w1i/anyone_used_thg_ics_or_can_recommend_another/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wf4w1i</id>
+        <link href="https://www.reddit.com/r/it/comments/wf4w1i/anyone_used_thg_ics_or_can_recommend_another/" />
+        <updated>2022-08-03T12:06:35+00:00</updated>
+        <published>2022-08-03T12:06:35+00:00</published>
+        <title>Anyone used THG ICS or can recommend another company for bare metal servers?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/evilclown28</name>
+            <uri>https://www.reddit.com/user/evilclown28</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;currently in IT helpdesk support, and would want to upgrade and go to dev, any path or course you guys can recommend? thanks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/evilclown28&quot;&gt; /u/evilclown28 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wesw68/good_course_to_start_with_devops/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wesw68/good_course_to_start_with_devops/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wesw68</id>
+        <link href="https://www.reddit.com/r/it/comments/wesw68/good_course_to_start_with_devops/" />
+        <updated>2022-08-03T01:15:26+00:00</updated>
+        <published>2022-08-03T01:15:26+00:00</published>
+        <title>Good course to start with devops?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/KarlHungus311</name>
+            <uri>https://www.reddit.com/user/KarlHungus311</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So if you sprint back to your desk after you scan, the scan might not be there yet? Let me stop everything I&amp;#39;m doing to address this.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/KarlHungus311&quot;&gt; /u/KarlHungus311 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/yz61u7oaoaf91.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weahrb/users_like_this_drive_me_crazy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_weahrb</id>
+        <link href="https://www.reddit.com/r/it/comments/weahrb/users_like_this_drive_me_crazy/" />
+        <updated>2022-08-02T12:33:23+00:00</updated>
+        <published>2022-08-02T12:33:23+00:00</published>
+        <title>Users like this drive me crazy</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/b1o2b3j</name>
+            <uri>https://www.reddit.com/user/b1o2b3j</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I work at a university and received an inappropriate email from an anonymous email address. I have reason to believe this was done on campus, possibly from the university Wifi or even a lab computer. Could our IT department figure out if it was sent from on campus or even who it was?&lt;/p&gt; &lt;p&gt;I reached out to our IT, but got sort of a dismissive answer.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/b1o2b3j&quot;&gt; /u/b1o2b3j &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wems5a/could_our_it_dept_tell_where_an_email_came_from/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wems5a/could_our_it_dept_tell_where_an_email_came_from/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wems5a</id>
+        <link href="https://www.reddit.com/r/it/comments/wems5a/could_our_it_dept_tell_where_an_email_came_from/" />
+        <updated>2022-08-02T20:52:29+00:00</updated>
+        <published>2022-08-02T20:52:29+00:00</published>
+        <title>Could our IT dept. tell where an email came from in on a University network?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/That-Interview-3096</name>
+            <uri>https://www.reddit.com/user/That-Interview-3096</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think I may have blew it. They called me and I didn’t understand it was a training program and recently had a few scam job offers so I said I wasn’t interested. With some research I found some good reviews on them and was wondering if I should make a attempt and backtrack with them.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/That-Interview-3096&quot;&gt; /u/That-Interview-3096 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weqckg/is_genspark_legit/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weqckg/is_genspark_legit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_weqckg</id>
+        <link href="https://www.reddit.com/r/it/comments/weqckg/is_genspark_legit/" />
+        <updated>2022-08-02T23:19:58+00:00</updated>
+        <published>2022-08-02T23:19:58+00:00</published>
+        <title>Is genspark legit?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/shranay</name>
+            <uri>https://www.reddit.com/user/shranay</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, got a job offer here and was wondering what this program is like? It will be in the NY office and wanted to know how the work/life balance is, culture, training, etc. This would really help make my decision.&lt;/p&gt; &lt;p&gt;Thank you!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/shranay&quot;&gt; /u/shranay &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weaxha/how_is_the_pepsico_it_program_for_new_grads/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weaxha/how_is_the_pepsico_it_program_for_new_grads/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_weaxha</id>
+        <link href="https://www.reddit.com/r/it/comments/weaxha/how_is_the_pepsico_it_program_for_new_grads/" />
+        <updated>2022-08-02T12:53:28+00:00</updated>
+        <published>2022-08-02T12:53:28+00:00</published>
+        <title>How is the PepsiCo IT program for new grads?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/MaleficentRound583</name>
+            <uri>https://www.reddit.com/user/MaleficentRound583</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Disclaimer: software man, not hardware. Go easy please. Treat me with noob gloves.&lt;/p&gt; &lt;p&gt;I&amp;#39;m always seeing posts and articles about these amazing PC&amp;#39;s that people custom build, and how, of u know what you&amp;#39;re doing, a custom PC can blow a Mac out of the water for less money. &lt;/p&gt; &lt;p&gt;My question is (probably obvious by now): why isn&amp;#39;t custom building Mac&amp;#39;s a thing, or is it? Why not take one of those awesome cases and add the components that will make it run MacOS properly, and make it super fast and powerful?&lt;/p&gt; &lt;p&gt;Is it just that Apple doesn&amp;#39;t really make their components available? Can&amp;#39;t they be reproduced third party (and maybe even better than the originals)? Would it just be too stupid expensive to be worthwhile?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MaleficentRound583&quot;&gt; /u/MaleficentRound583 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weiupp/custom_build_macs/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/weiupp/custom_build_macs/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_weiupp</id>
+        <link href="https://www.reddit.com/r/it/comments/weiupp/custom_build_macs/" />
+        <updated>2022-08-02T18:14:16+00:00</updated>
+        <published>2022-08-02T18:14:16+00:00</published>
+        <title>Custom build Mac's</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Popular-Recover8880</name>
+            <uri>https://www.reddit.com/user/Popular-Recover8880</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;First off, I&amp;#39;m not sure if I&amp;#39;m in the right place so could I be redirected if so?&lt;/p&gt; &lt;p&gt;Here&amp;#39;s what has been done on the PC (bearing in mind the old PC did not experience this issue):&lt;/p&gt; &lt;p&gt;- PC added to server domain&lt;/p&gt; &lt;p&gt;- PC fully patched&lt;/p&gt; &lt;p&gt;- Tried mapping via cmd line&lt;/p&gt; &lt;p&gt;- Updated group policy on server to see if it would push mapped drive to PC&lt;/p&gt; &lt;p&gt;- Verified permissions had not been changed&lt;/p&gt; &lt;p&gt;- Manually assigned permissions for specific user rather than group she was part of in AD&lt;/p&gt; &lt;p&gt;It&amp;#39;s possibly worth noting that the server is a hybrid account with Exchange. She has 3 accounts mapped to her Outlook and logs in through her email profile which is also has permissions to said network drives (goes without saying)&lt;/p&gt; &lt;p&gt;What is very peculiar here is how only one of the network drives unmaps from only their computer, and not their old one. This would scream out to me that there is something amiss with the OS environment. Nothing a batch script might not solve, but i would really prefer a solution more suited to everybody else&amp;#39;s convention, as they all have access with no adjustments any the more different from the impacted endpoint.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Popular-Recover8880&quot;&gt; /u/Popular-Recover8880 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/we8x44/one_specific_network_drive_keeps_disappearing_for/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/we8x44/one_specific_network_drive_keeps_disappearing_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_we8x44</id>
+        <link href="https://www.reddit.com/r/it/comments/we8x44/one_specific_network_drive_keeps_disappearing_for/" />
+        <updated>2022-08-02T11:12:58+00:00</updated>
+        <published>2022-08-02T11:12:58+00:00</published>
+        <title>One specific network drive keeps disappearing for one user</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/geekmoose</name>
+            <uri>https://www.reddit.com/user/geekmoose</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Has anyone an idea about what this cable is for. I’m thinking from some power adaptor, but I have no recollection of what one and what system.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/geekmoose&quot;&gt; /u/geekmoose &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/czabb028r9f91.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/we74tp/cable_identification/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_we74tp</id>
+        <link href="https://www.reddit.com/r/it/comments/we74tp/cable_identification/" />
+        <updated>2022-08-02T09:28:00+00:00</updated>
+        <published>2022-08-02T09:28:00+00:00</published>
+        <title>Cable identification</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/SaphirePool</name>
+            <uri>https://www.reddit.com/user/SaphirePool</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Like could someone I don&amp;#39;t know install an app that&amp;#39;s hidden and doesn&amp;#39;t even show up with system apps or is disguised as a system app that does things like sends them the notifications you get or lets them see your texts? And if it is possible do you know what it would be called or look like or how to remove it?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SaphirePool&quot;&gt; /u/SaphirePool &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wdzx21/is_it_in_all_possible_for_someone_to_see_what/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wdzx21/is_it_in_all_possible_for_someone_to_see_what/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wdzx21</id>
+        <link href="https://www.reddit.com/r/it/comments/wdzx21/is_it_in_all_possible_for_someone_to_see_what/" />
+        <updated>2022-08-02T02:36:27+00:00</updated>
+        <published>2022-08-02T02:36:27+00:00</published>
+        <title>Is it in all possible for someone to see what you're doing on your phone without you knowing?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/ThatGuyAustin7</name>
+            <uri>https://www.reddit.com/user/ThatGuyAustin7</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve recently been offered a job as an IT Specialist at a charter school and the faculty I&amp;#39;ll be working with are given the choice of Windows or Mac OS.&lt;/p&gt; &lt;p&gt;I&amp;#39;ve essentially been told I can use my best judgement to select a computer for my office and I was curious which OS/devices would work best with cross-platform maintenance.&lt;/p&gt; &lt;p&gt;I am familiar with both systems and enjoy both but would prefer Mac as I am much more familiar with the bash terminal than powershell. Any suggestions are appreciated thanks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ThatGuyAustin7&quot;&gt; /u/ThatGuyAustin7 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wdplmd/best_computeros_for_school_it/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wdplmd/best_computeros_for_school_it/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wdplmd</id>
+        <link href="https://www.reddit.com/r/it/comments/wdplmd/best_computeros_for_school_it/" />
+        <updated>2022-08-01T19:07:43+00:00</updated>
+        <published>2022-08-01T19:07:43+00:00</published>
+        <title>Best computer/OS for school IT?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Jacob2282</name>
+            <uri>https://www.reddit.com/user/Jacob2282</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m a 20 yo guy getting promoted into the IT department for my companies corporate office, I’m pretty technically savy and I definitely know my way around a computer but I don’t know anything about actual IT work. What should I know before going in (if it helps the company I’m working for is a large privately held lumber corporation)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Jacob2282&quot;&gt; /u/Jacob2282 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wducky/advice_for_a_newcomer/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wducky/advice_for_a_newcomer/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wducky</id>
+        <link href="https://www.reddit.com/r/it/comments/wducky/advice_for_a_newcomer/" />
+        <updated>2022-08-01T22:22:37+00:00</updated>
+        <published>2022-08-01T22:22:37+00:00</published>
+        <title>Advice for a newcomer</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/VesPus_</name>
+            <uri>https://www.reddit.com/user/VesPus_</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My wireless headset is interfering with my grandparents Wi-Fi router so whenever I connect to my iPad to watch something or listen to music my internet is shit because Bluetooth works on 2.4ghz andthe router they have is one of those old ones and onlyhas 2.4ghz so the frequency are having a fight in the air or something.?.? St least that’s what I deducted after Turing Bluetooth of and then one again while looking at my iPad and see it go from 300kbps to 78mbps 😭😭 Anyone know wh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/VesPus_&quot;&gt; /u/VesPus_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wdthjf/dummest_shit_ever/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wdthjf/dummest_shit_ever/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wdthjf</id>
+        <link href="https://www.reddit.com/r/it/comments/wdthjf/dummest_shit_ever/" />
+        <updated>2022-08-01T21:46:26+00:00</updated>
+        <published>2022-08-01T21:46:26+00:00</published>
+        <title>Dummest shit ever</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Difficult_Ad_6955</name>
+            <uri>https://www.reddit.com/user/Difficult_Ad_6955</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Difficult_Ad_6955&quot;&gt; /u/Difficult_Ad_6955 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/8pbnurcoqxe91.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wcthqn/most_powerful_friends_in_it/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wcthqn</id>
+        <link href="https://www.reddit.com/r/it/comments/wcthqn/most_powerful_friends_in_it/" />
+        <updated>2022-07-31T17:04:16+00:00</updated>
+        <published>2022-07-31T17:04:16+00:00</published>
+        <title>Most powerful friend's in IT</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/_Cherry_</name>
+            <uri>https://www.reddit.com/user/_Cherry_</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello! The literal pushing down on either bottom corner of my touchpad stopped working as L and R click. It physically and audibly clicks just fine, but no functional output. Most Google results are for enabling touch functions of the touchpad. Lightly tapping my laptop&amp;#39;s touchpad with one finger for L-click &amp;amp; two fingers for R-click work perfect, though, so that isn&amp;#39;t my issue. If any detail I can add to help, please let me know! Thank you in advance!&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Laptop specs:&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;Dell Inspiron 15, 7591 2-in-1&lt;/li&gt; &lt;li&gt;Windows 11 Home, version 21H2 (x64-bit) &lt;ul&gt; &lt;li&gt;&lt;em&gt;At time of incident,&lt;/em&gt; &lt;strong&gt;&lt;em&gt;was&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;Windows 10&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz 2.30 GHz&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Problem history:&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;2 months ago while watching a movie on it, my cat trampled over my keyboard, many windows opened and tasks activated, and a couple very tiny, &lt;sup&gt;tiny&lt;/sup&gt; droplets of black coffee grazed the touchpad edges (startled by cat) which I quickly dried off. &lt;ul&gt; &lt;li&gt;The &lt;em&gt;clicky&lt;/em&gt; feel and sound of the touchpad were both unchanged after drying the coffee droplets.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;I searched fixes, but gave up bc I got busy and got by with the touchpad gestures. My warranty ended before all this, too, so I took my time exhausting solutions before coming to y&amp;#39;all haha&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Solutions tried (and failed):&lt;/strong&gt; &lt;ul&gt; &lt;li&gt;No restore points available when I checked at the time of incident, but last month I did a factory reset and the issue still persisted. Updated to Windows 11 right after, and still nothing.&lt;/li&gt; &lt;li&gt;This site has most all solutions I&amp;#39;ve already tried: &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://windowsreport.com/fix-laptop-click-button/&quot;&gt;https://windowsreport.com/fix-laptop-click-button/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/_Cherry_&quot;&gt; /u/_Cherry_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wd59sp/touchpad_responds_only_to_l_r_clicking_when/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wd59sp/touchpad_responds_only_to_l_r_clicking_when/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wd59sp</id>
+        <link href="https://www.reddit.com/r/it/comments/wd59sp/touchpad_responds_only_to_l_r_clicking_when/" />
+        <updated>2022-08-01T01:57:36+00:00</updated>
+        <published>2022-08-01T01:57:36+00:00</published>
+        <title>Touchpad responds only to L / R clicking when touch-tapping on touchpad, not when press-clicking</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Nixplosion</name>
+            <uri>https://www.reddit.com/user/Nixplosion</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Help??? Nothing is fixing it. Comp won&amp;#39;t even restore back to a prior version as it apparently has never updated??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Nixplosion&quot;&gt; /u/Nixplosion &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wd15vi/laptop_running_win10_v2004_issue_where_the/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wd15vi/laptop_running_win10_v2004_issue_where_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wd15vi</id>
+        <link href="https://www.reddit.com/r/it/comments/wd15vi/laptop_running_win10_v2004_issue_where_the/" />
+        <updated>2022-07-31T22:43:37+00:00</updated>
+        <published>2022-07-31T22:43:37+00:00</published>
+        <title>Laptop running Win10 v.2004 issue where the machine is connected to wifi, can access Google etc. But won't run updates because it doesn't internally recognize it's connected to the internet?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/heyitsthatoneguy81</name>
+            <uri>https://www.reddit.com/user/heyitsthatoneguy81</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/heyitsthatoneguy81&quot;&gt; /u/heyitsthatoneguy81 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/p98sgcnegse91.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wca8zn/ive_been_working_in_it_for_a_long_time_but_wanted/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wca8zn</id>
+        <link href="https://www.reddit.com/r/it/comments/wca8zn/ive_been_working_in_it_for_a_long_time_but_wanted/" />
+        <updated>2022-07-30T23:17:07+00:00</updated>
+        <published>2022-07-30T23:17:07+00:00</published>
+        <title>I've been working in IT for a long time but wanted to show my still-sealed copy of Windows 3.1.</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Complex-Ad-8966</name>
+            <uri>https://www.reddit.com/user/Complex-Ad-8966</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just a quick background of the network for context:&lt;/p&gt; &lt;p&gt;The company i work for currently has 2 suites in 2 different buildings but in the same parking lot (Engineering building &amp;amp; the main building). I mention them being suites because i only have to worry about 2 floors Per building. (25-40 ppl max).&lt;/p&gt; &lt;p&gt;While we’re using 1 isp we have two separate internet bills, because the buildings being far apart. BUT pretty soon (next month) the engineers are moving next door to the main building (only thing separating them is a wall). So we’d like to cut it to 1 bill. In our MDF we have netgear stackable switches. While in the engineering building we have one cisco switch&lt;/p&gt; &lt;p&gt;Currently my question is what switch and hardware should i be looking to purchase for the move (already taken account of the # of end devices and device needs). Does it need to be one of the netgear stackable series because of our MDF? What would be the best way to connect the MDF to the IDF? My plan is to just cat 6 straight through. Just not too sure of netgears switches being outdated. And if they need to match the models?&lt;/p&gt; &lt;p&gt;Ps: i inherited the network a few months ago 😭&lt;/p&gt; &lt;p&gt;Thanks for the help in advance network brothers&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Complex-Ad-8966&quot;&gt; /u/Complex-Ad-8966 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wcs3t1/moving_buildings_and_network_changes_need_advice/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wcs3t1/moving_buildings_and_network_changes_need_advice/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wcs3t1</id>
+        <link href="https://www.reddit.com/r/it/comments/wcs3t1/moving_buildings_and_network_changes_need_advice/" />
+        <updated>2022-07-31T16:02:35+00:00</updated>
+        <published>2022-07-31T16:02:35+00:00</published>
+        <title>Moving buildings and Network changes Need Advice!🙃</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Mack9317</name>
+            <uri>https://www.reddit.com/user/Mack9317</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I have a technical question. I’d like to setup a way to access the contents of my external hard drive wired to my MacBook from my iPad via Wi-Fi. Is there a way to do that? A Dropbox type of thing.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Mack9317&quot;&gt; /u/Mack9317 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wcjsnf/create_internet_access_from_ipad_to_my_external/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wcjsnf/create_internet_access_from_ipad_to_my_external/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wcjsnf</id>
+        <link href="https://www.reddit.com/r/it/comments/wcjsnf/create_internet_access_from_ipad_to_my_external/" />
+        <updated>2022-07-31T08:19:56+00:00</updated>
+        <published>2022-07-31T08:19:56+00:00</published>
+        <title>Create internet access from ipad to my external hard drive content iPad</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Kakkernijntje</name>
+            <uri>https://www.reddit.com/user/Kakkernijntje</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,I&amp;#39;m in a hospital for an undetermined time. I do have my laptop with me to keep busy, but they have seem to put some restrictions on the internet usage. I can&amp;#39;t video chat (or even voice chat over discord) with my bf. Nor can i access gameservers.&lt;/p&gt; &lt;p&gt;These are the only two things that would make me feel better while I&amp;#39;m in here so the fact that I&amp;#39;m not able to do this really hurts right now.&lt;/p&gt; &lt;p&gt;Is there anyone who can help me? or who can direct me to a subreddit where they might be able to help me?&lt;/p&gt; &lt;p&gt;Thank you in advance.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kakkernijntje&quot;&gt; /u/Kakkernijntje &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wciu0m/help_restricted_internet_access_in_hospital/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wciu0m/help_restricted_internet_access_in_hospital/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wciu0m</id>
+        <link href="https://www.reddit.com/r/it/comments/wciu0m/help_restricted_internet_access_in_hospital/" />
+        <updated>2022-07-31T07:14:45+00:00</updated>
+        <published>2022-07-31T07:14:45+00:00</published>
+        <title>Help: Restricted internet access in hospital</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/InsideNo5892</name>
+            <uri>https://www.reddit.com/user/InsideNo5892</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Good day everyone, I’m new to this group. I need some advice. I’m going to graduate next month in IT but I don’t know what job I’m going to apply for. I tried my best to learn programming but it’s really hard for me. But I can say I’m good at designing, which is UI/UX designer but I’m not sure if I can apply or relate it to I.T. I’m really stressed right now and it’s hard to find a job as well. Anyone can give me an idea and advice. I was thinking also about the analyst but I don’t know how to start I don’t want to waste what I studied though I admit I’m not into code. And most of the companies also are looking for an experience which is I don’t have yet. 🥺&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/InsideNo5892&quot;&gt; /u/InsideNo5892 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wck3um/need_advice/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wck3um/need_advice/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wck3um</id>
+        <link href="https://www.reddit.com/r/it/comments/wck3um/need_advice/" />
+        <updated>2022-07-31T08:41:34+00:00</updated>
+        <published>2022-07-31T08:41:34+00:00</published>
+        <title>Need advice</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/RoyaleFussion</name>
+            <uri>https://www.reddit.com/user/RoyaleFussion</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a special opportunity to get into DOD cybersecurity with a security plus cert. I have no college. Only trade school. I really enjoy working as a commercial hvac service tech however I want to travel. I want to be free to move around and hvac isn&amp;#39;t very travel friendly. I&amp;#39;m currently making around $50,000 without overtime but with commercial hvac there is alot of overtime so take that as you will. I&amp;#39;m thinking walking into the IT field. Is this a good idea? And what is the job outlook? I understand I&amp;#39;ll start out as like a pc tech or something but as far as a year in how much can I progress? I&amp;#39;d like to learn powershell and get into automation. What is the pay for someone a year in woth no college degree?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/RoyaleFussion&quot;&gt; /u/RoyaleFussion &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wc26yv/what_is_my_job_outlook_in_cybersecurityit/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wc26yv/what_is_my_job_outlook_in_cybersecurityit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wc26yv</id>
+        <link href="https://www.reddit.com/r/it/comments/wc26yv/what_is_my_job_outlook_in_cybersecurityit/" />
+        <updated>2022-07-30T17:04:36+00:00</updated>
+        <published>2022-07-30T17:04:36+00:00</published>
+        <title>What is my job outlook in Cybersecurity/IT?</title>
+    </entry>
+    <entry>
+        <author>
+            <name>/u/Kurai_Tsuki_987</name>
+            <uri>https://www.reddit.com/user/Kurai_Tsuki_987</uri>
+        </author>
+        <category term="it" label="r/it" />
+        <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My parents and I (who are very inexperienced in anything IT) been trying to extend Our Wifi signal to reach downstairs (specifically my room) because it gets no signal and rarely 1 or 2 bars. My Step Dad ended up getting a TP link router in an attempt to use it as an extender but when I try to connect to it, it has no internet.&lt;/p&gt; &lt;p&gt;I took a look at the way my Step Dad set it up and did some reaserch and realized the problem. Because there was no WAN cable plugged in to the modem, it wouldn&amp;#39;t work. But I can&amp;#39;t connect it to the modem because they&amp;#39;re on 2 different floors. &lt;/p&gt; &lt;p&gt;Which one of these solutions is the best: &lt;/p&gt; &lt;p&gt;A: Get one of those Xfinity Pods&lt;/p&gt; &lt;p&gt;B: Buy another Modem (If that even works) so I can connect the WAN cable to it&lt;/p&gt; &lt;p&gt;C: If there&amp;#39;s a way to connect the 2 of them wirelessly let me know&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kurai_Tsuki_987&quot;&gt; /u/Kurai_Tsuki_987 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wc3dos/trying_to_extend_xfinity_wifi_downstairs_with_tp/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/it/comments/wc3dos/trying_to_extend_xfinity_wifi_downstairs_with_tp/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+        <id>t3_wc3dos</id>
+        <link href="https://www.reddit.com/r/it/comments/wc3dos/trying_to_extend_xfinity_wifi_downstairs_with_tp/" />
+        <updated>2022-07-30T17:59:20+00:00</updated>
+        <published>2022-07-30T17:59:20+00:00</published>
+        <title>Trying to extend Xfinity Wifi downstairs with TP link Router</title>
+    </entry>
+</feed>
